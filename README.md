@@ -1,10 +1,8 @@
 # SDR_receiver
 
-communication systems project, read me file:
+communication systems project
 
-This project was submitted by
-Abanoub Methany [mtrx. Nr.: 25950]
-Anas Abdulhalim [mtrx. Nr.:  ]
+
 
 Decoded mystery messages can be found under <results> folder
 
