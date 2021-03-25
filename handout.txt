@@ -1,0 +1,61 @@
+A. Transmitter Specifications
+
+   The three mystery signals are generated with the M6 transmitter
+   standard in m6params.m, described in SRD, Chap 15, with the 
+   following RF parameters:
+
+   mysteryA:  SRRCLength:     8
+              SRRCrolloff:    0.1
+              T_t:            8e-6 s
+              f_if:           1.7 MHz
+              f_s:            800 kHz 
+
+   mysteryB:  SRRCLength:     4
+              SRRCrolloff:    0.3
+              T_t:            10.2e-6 s
+              f_if:           1.95 MHz
+              f_s:            700 kHz
+
+   mysteryC:  SRRCLength:     3
+              SRRCrolloff:    0.5
+              T_t:            8.3e-6 s
+              f_if:           2.45 MHz
+              f_s:            750 kHz
+
+
+B. Deliverables due January 28, 2021
+
+  1. Executable receiver code and recovered mysteries
+
+  2. Project report (pdf)
+
+    a. Describe your SRD implementation concisely.
+
+    b. Give technical reasons for each design choice in your radio.
+
+    c. If you work with a project partner, identify the contributions
+       of each partner.
+
+  3. Presentation slides (pdf)
+    
+
+C. Webex presentation on January 29, 2021
+
+  1. Make sure (test) in advance that your audio and video work
+     for each project partner, and you can share all contents
+     you wish to present.
+
+  2. Each project partner presents their individual project
+     contributions.
+
+  3. Time: 15 min + Q&A
+
+
+D. Plagiarism
+
+  1. Do not plagiarize.  Protect yourself and your fellow students
+     from plagiarizing by not releasing your own project work.
+
+  2. Plagiarism will be reported as attempt of deception
+     for each of the involved students.
+
